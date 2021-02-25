@@ -6,4 +6,4 @@ The following repository contains sample work. These are useful for evaluation o
 2. Frequentist and Bayesian AB testing on Cookie Cat mobile game dataset. [link](Cookie_Cats.ipynb)
 3. GAN implementation from scratch using basic principles. [link](GAN_training_in_action.ipynb)
 4. Time Series Clustering for product consolidation [link](Clustering%20Products.ipynb)
-5. OpenAI LSTM XOR challenge (own solution)
+5. OpenAI LSTM XOR challenge (own solution) [link](Parity%20XOR%20using%20LSTM(Open%20AI%20Challenge).ipynb)
